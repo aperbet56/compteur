@@ -17,7 +17,7 @@ body {
     background-color: #f7f7f7;
 }
 
-header, .main__container, .container, footer {
+header, .main__container, footer {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -32,9 +32,6 @@ h1 {
 
 .main__container {
     flex-grow: 1;
-}
-
-.container {
     flex-direction: column;
 }
 
