@@ -2,11 +2,12 @@
 
 ## Le challenge
 
-Création d'un compteur avec affichage de la valeur qui s'incrèmente lorsque l'utilisateur clique sur le bouton "+" et qui décrèmente lorsqu'il clique sur le bouton "-". Possibilité de remise à zéro du compteur au clic sur le bouton "Reset".
+Création d'un compteur avec affichage de la valeur qui s'incrémente lorsque l'utilisateur clique sur le bouton "+" et qui décrémente lorsqu'il clique sur le bouton "-".
+Possibilité de remise à zéro du compteur au clic sur le bouton "Reset".
 
 ## Démonstration
 
-Lien vers le projet :
+Lien vers le projet : https://aperbet56.github.io/compteur/
 
 ## Développez avec
 
