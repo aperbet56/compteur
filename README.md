@@ -12,7 +12,7 @@ Lien vers le projet : https://aperbet56.github.io/compteur/
 ## Développez avec
 
 - Utilisaion des balises sémantiques HTML5
-- CSS
+- CSS3
 - Flexbox
 - Bootstrap
 - Page web responsive
